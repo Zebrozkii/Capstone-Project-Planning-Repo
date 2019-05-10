@@ -39,6 +39,10 @@ there is a possibility this will get deployed.
 
 
 ### Setup Instructions
+![IMG_0747](https://user-images.githubusercontent.com/45669733/57544964-c21d9b00-730d-11e9-98ab-dcceff1d68bf.jpg)
+![IMG_0748](https://user-images.githubusercontent.com/45669733/57544998-dc577900-730d-11e9-9208-11f0bfb49588.jpg)
+![IMG_0749](https://user-images.githubusercontent.com/45669733/57545019-e5e0e100-730d-11e9-851f-21eb81bb0562.jpg)
+![IMG_0750](https://user-images.githubusercontent.com/45669733/57545035-f002df80-730d-11e9-8b68-67410463b4d1.jpg)
 
 
 ### Known Bugs
